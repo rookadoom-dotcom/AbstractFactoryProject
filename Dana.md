@@ -1,3 +1,3 @@
 # Dana - Contribution :
-## Problem Analysis
+## Pattern Selection
 ## Justification
